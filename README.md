@@ -5,4 +5,4 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ianramzy/asteroids.svg)
 [![Repo Link](https://img.shields.io/badge/Repo-Link-black.svg)](https://github.com/ianramzy/asteroids)
 
-🚀 Blow up all the asteroids before the destroy your ship in this retro game.
+🚀 Blow up all the asteroids before they destroy your ship in this retro game.
